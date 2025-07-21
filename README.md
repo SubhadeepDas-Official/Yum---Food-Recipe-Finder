@@ -8,7 +8,7 @@
   <img src="./Mobile/assets/images/splash-icon.png" alt="Yum App Icon" width="120" style="border-radius:20px"/>
 </p>
 
-<h1 align="center">🍃 YUM – Food Recipe Finder App</h1>
+<h1 align="center">YUM – Food Recipe Finder App</h1>
 <h3 align="center"><i>Discover · Cook · Enjoy</i></h3>
 
 <p align="center">

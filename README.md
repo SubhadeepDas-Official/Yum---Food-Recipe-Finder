@@ -23,7 +23,7 @@
 ## 📥 **Download the App**
 
 <p align="center">
-  <a href="./Mobile/apk/YUM.apk">
+  <a href="Mobile/apk/application-41e4bcaa-3acc-4d47-98f3-2804a7636b24.apk">
     <img src="https://img.shields.io/badge/⬇️_Download_APK-Green?style=for-the-badge&logo=android&logoColor=white&color=43ff43&labelColor=000000" />
   </a>
 </p>
